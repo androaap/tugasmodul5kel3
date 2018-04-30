@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\modul5_kelompok3\modul5_kelompok3\bin\Debug\modul5_kelompok3.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\modul5_kelompok3\modul5_kelompok3\bin\Debug\modul5_kelompok3.exe
+c:\users\asus\documents\visual studio 2015\Projects\modul5_kelompok3\modul5_kelompok3\bin\Debug\modul5_kelompok3.pdb
+c:\users\asus\documents\visual studio 2015\Projects\modul5_kelompok3\modul5_kelompok3\obj\Debug\modul5_kelompok3.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\modul5_kelompok3\modul5_kelompok3\obj\Debug\modul5_kelompok3.exe
+c:\users\asus\documents\visual studio 2015\Projects\modul5_kelompok3\modul5_kelompok3\obj\Debug\modul5_kelompok3.pdb
