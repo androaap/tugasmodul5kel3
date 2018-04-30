@@ -43,7 +43,7 @@ namespace program_andro
                 Console.WriteLine("-----------------------------------");
                 Console.WriteLine("Andro Adhita Pratama 21120117140013");
                 Console.WriteLine("Miranti Faninda Alif 21120112140084");
-                Console.WriteLine("Kelompok 3");
+                Console.WriteLine("Kelompok 3");//nama kelompok
                 Console.WriteLine("Shift 1");
                 Console.WriteLine("-----------------------------------");
                 Console.WriteLine("    ");
